@@ -12,7 +12,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <header className={styles.header}>
-        <Image
+        <img
           src="/homaro-logo.svg"
           alt="Homaro Logo"
           width={300}
