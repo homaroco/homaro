@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 50">
+  <g transform="translate(-367.5 -468.2)">
+    <path fill="#ff1a2d" d="M367.5 468.2h150v50h-150z" style="font-variation-settings:&quot;wght&quot;700"/>
+    <circle cx="413" cy="496.9" r="8.8" fill="#ff1a2d" stroke="#ff1a2d" stroke-linejoin="round" stroke-miterlimit="7.1" stroke-width="9.4" style="font-variation-settings:&quot;wght&quot;700"/>
+    <text xml:space="preserve" x="375.9" y="505.6" fill="#fff" stroke-linejoin="round" stroke-miterlimit="7.1" stroke-width="5" font-family="Nunito" font-size="35.3" font-weight="400" style="-inkscape-font-specification:&quot;Nunito, @wght=700&quot;;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:&quot;wght&quot;700"><tspan x="375.9" y="505.6" style="-inkscape-font-specification:&quot;Nunito, @wght=700&quot;;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:&quot;wght&quot;700">Homaro</tspan></text>
+    <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="7.1" stroke-width="4.5" d="M407 511.7h-35.2v-37.2H407v7.7" style="font-variation-settings:&quot;wght&quot;700"/>
+  </g>
+</svg>

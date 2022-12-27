@@ -1,10 +1,29 @@
 .main {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
   align-items: center;
-  padding: 6rem;
   min-height: 100vh;
+  font-family: Helvetica, sans-serif;
+  padding: 30px;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+  background-color: hsl(355, 100%, 55%);
+  width: 100%;
+  box-shadow: 0 0 10px hsla(0, 0%, 0%, 0.67);
+  color: white;
+  font-family: Helvetica, sans-serif;
+}
+
+.header h2 {
+  margin-top: 10px;
+  font-size: 18px;
 }
 
 .description {
