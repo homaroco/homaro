@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap');
+
 :root {
   --max-width: 1100px;
   --border-radius: 12px;
@@ -106,4 +108,23 @@ p {
   max-width: 40em;
   margin-bottom: 20px;
   line-height: 1.5;
+}
+
+ul {
+  margin-bottom: 20px;
+  line-height: 1.5;
+}
+
+h3 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/*https://stackoverflow.com/a/6594576/20797054 */
+sup {
+  line-height: 0;
+}
+
+header img {
+  font-family: "Nunito", Helvetica, sans-serif;
 }
