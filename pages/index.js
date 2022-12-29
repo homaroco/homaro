@@ -9,7 +9,7 @@ export default function Home() {
     <>
       <Head>
         <title>Homaro</title>
-        <meta name="description" content="The public benefit corporation of the people, by the people, for the people" />
+        <meta name="description" content="A public benefit company, run by the people." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -54,7 +54,7 @@ export default function Home() {
         <p>{"It's time to do something revolutionary, and I hope that you take part."}</p>
         <h3>Footnotes</h3>
         <ol>
-          <li id='transparency'>Operational transparency is an area in which we would like to explore. There are obvious questions and challenges that this would pose for a company. Would people want to work where all their emails are published online? How would we navigate salaries? How transparent is too transparent, or is that even possible? Homaro would like to tackle these questions and challenges in order to instill public trust and foster better behavior.</li>
+          <li id='transparency'>Operational transparency is an area in which we would like to explore. There are obvious questions and challenges that this would pose for a company. Would people want to work where all their emails are published online? How would we navigate salaries? How transparent is too transparent, or is that even possible? Homaro would like to tackle these questions and challenges in order to instill public trust and foster better behavior. In the instance of product and service pricing, we would provide the information and decisions made which informed the final price, including justification for the profit margin.</li>
           <li id="compensation">While the share, stake, and holder groups will ultimately decide upon how much everyone at Homaro gets paid, as a matter of principle the salary structure should be as flat as possible. Perhaps the groups will vote on a compensation budget, and </li>
         </ol>
       </main>
