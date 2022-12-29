@@ -19,6 +19,7 @@
   box-shadow: 0 0 20px hsla(0, 0%, 0%, 0.5);
   color: white;
   font-family: Helvetica, sans-serif;
+  user-select: none;
 }
 
 .header h2 {
@@ -306,4 +307,22 @@
   font-size: 20px;
   margin-bottom: 200px;
   font-family: Helvetica, sans-serif;
+}
+
+.registerBtn {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid white;
+  border-radius: 5px;
+  color: white;
+  font-weight: unset;
+}
+
+.registerBtn:hover {
+  margin: 8px;
+  border: 3px solid white;
+  text-decoration: none;
 }
