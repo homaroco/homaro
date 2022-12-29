@@ -30,7 +30,7 @@ export default function Home() {
       </header>
       <main className={styles.main}>
         <h3>{"This company does not yet exist, but it will soon. Here's the gist"}</h3>
-        <p>While there are a number of goals that Homaro seeks to acomplish (enumerated upon in the <a href='#footnotes'>footnotes</a>) there are three goals in particular that will initally chart the company course. In order of increasing importance:</p>
+        <p>While there are a number of goals that Homaro seeks to acomplish (enumerated upon in the <a href='#footnotes'>footnotes</a>) there are three goals in particular that will chart the initial company course. In order of increasing importance:</p>
         <ul>
           <li><a href="#privacy-and-security">Consumer privacy and security</a></li>
           <li><a href="#market-expansion">Benefit-focused market expansion</a></li>
@@ -45,17 +45,17 @@ export default function Home() {
         <p>{"The first product and service by Homaro will be "}<a href="https://datums.app">Datums</a>{", a web-based app store that doesn't want to know anything about you. Our initial collection of basic apps, including a to-do list, habit tracker, finance tracker, period tracker, and more, will always be free to use. In addition, we will develop in-house single-time and subscription-based apps for purchase. We also make it easy for app developers to build on our platform and monetize their creations. Data will client-side encrypted and  offline-first, with a hosting service provided by the company for a reasonable and "}<a href="#transparency">transparent price.<sup>[1]</sup></a></p>
         <p>No app on the platform will ever have access to the data it receives or creates, because it will be client-side encrypted. All apps added to the store will be audited before deployment. Homaro will never have access to any meaningful data unless, in the future, new features allow sharing meaningful data after the user has granted their informed consent.</p>
         <h3 id='market-expansion'>
-          <a href='/#market-expansion'>
+          <Link href='/#market-expansion'>
             Benefit-focused market expansion
-          </a>
+          </Link>
         </h3>
         <p>Web-based software will always play a major role in Homaro products and services, due to its ease of access and ability to quickly build and innovate. But the point is not to create software, it is to produce benefit wherever the opportunity is found. By spreading awareness of Homaro&apos;s mission, building consumer trust, and never—ever—violating that trust, we hope to jump into new markets, each time an opportunity for the company to prove itself trustworthy, and each time a little bit easier than the last.</p>
         <p>How will we build public trust? By treating people with respect wherever possible. This will involve privacy policies and terms of service that are simple and short, <a href="#compensation">egalitarian employee compensation,<sup>[2]</sup></a> informed-consent op-in features, truth in advertising, and so on.</p>
         <p>In which markets will we choose to expand? Initially, wherever a software solution offers low-hanging fruit, and wherever consumers are treated with disrespect. This should provide ample opportunity to grow the company. Potential avenues may include open-source voting software, tools or services for local journalism, event planning for charity organizations and other non-profit groups, services to support small farms, developing-world (or developed) microlending, mobile pet spaying, etc.</p>
         <h3 id='democracy'>
-          <a href="/#democracy">
+          <Link href="/#democracy">
             Democratization of corporate governance
-          </a>
+          </Link>
         </h3>
         <p>{"Homaro will be an experiment in corporate governance. Policy and direction of a typical public company is voted on by its shareholders, with each shareholder's vote being proportional to how much stock they own (commonly known as the \"one share, one vote\" principle). In addition to a group having \"one share, one vote\", Homaro will have a second group following a \"one shareholder, one vote\" principle, wherein each partial owner of the company has equal voting power, regardless of how many shares they own."}</p>
         <p>{"In addion to the shareholders, a public benefit company must also take into account its stakeholders. Therefore, in addition to the two share(holder) groups, there will be two stake(holder) groups as well. The first will consist of every registered user of Homaro products or services, each having an equal vote. The second will consist of every registered user who has paid for Homaro products or services, each having a vote proportional to how much they have paid. A majority vote from all four groups will be required for policy to be passed."}</p>
