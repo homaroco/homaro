@@ -13,17 +13,17 @@
   position: relative;
   align-items: center;
   justify-content: center;
-  height: 200px;
-  background-color: hsl(355, 100%, 55%);
+  height: 280px;
+  background: radial-gradient(circle, rgba(255,51,85,1) 10%, rgba(255,51,51,1) 90%);
   width: 100%;
-  box-shadow: 0 0 10px hsla(0, 0%, 0%, 0.67);
+  box-shadow: 0 0 20px hsla(0, 0%, 0%, 0.5);
   color: white;
   font-family: Helvetica, sans-serif;
 }
 
 .header h2 {
   margin-top: 10px;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .description {
