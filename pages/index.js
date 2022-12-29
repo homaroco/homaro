@@ -55,8 +55,8 @@ export default function Home() {
         <h3>In summary</h3>
         <p>Homaro will be something different, and with that comes uncertainty. Change can be scary, and it is hard to know what to do when in foreign waters, facing a current of social scrutiny. Our hope is that the mission will be convincing enough to fight that current and face new territory bravely, because we know what we&apos;re doing is the right thing to do.</p>
         <h3>FAQ</h3>
-        <h4>What does "homaro" mean?</h4>
-        <p>"Homaro" is <a href="https://en.wikipedia.org/wiki/Esperanto">Esperanto</a> for "humanity". "Esperanto" in English means "one who hopes".</p>
+        <h4>What does &quot;homaro&quot; mean?</h4>
+        <p>&quot;Homaro&quot; is <a href="https://en.wikipedia.org/wiki/Esperanto">Esperanto</a> for &quot;humanity&quot;. &quot;Esperanto&quot; in English means &quot;one who hopes&quot;.</p>
         <h4>Where can I reach you?</h4>
         <p>If you have questions, concerns, feedback, or interest in participating in this expierment, please reach out to <a href="mailto:info@homaro.co">info at homaro.co</a>. We can&apos;t do this without the help of others, and we hope in the kindness of strangers.</p>
         {/* <p>{"It's time to do something revolutionary, and I hope that you take part."}</p> */}
