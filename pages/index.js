@@ -9,7 +9,7 @@ export default function Home() {
     <>
       <Head>
         <title>Homaro</title>
-        <meta name="description" content="A public benefit company, run by the people." />
+        <meta name="description" content="A public benefit company, governed by the people." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
