@@ -124,6 +124,11 @@ h3 {
   margin-bottom: 20px;
 }
 
+h4 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
 /*https://stackoverflow.com/a/6594576/20797054 */
 sup {
   line-height: 0;
