@@ -74,8 +74,17 @@ export default function Home() {
         </h3>
         <h4>What does &quot;homaro&quot; mean?</h4>
         <p>&quot;Homaro&quot; is <a href="https://en.wikipedia.org/wiki/Esperanto">Esperanto</a> for &quot;humanity&quot;. &quot;Esperanto&quot; in English means &quot;one who hopes&quot;.</p>
+        <h4>What is a &quot;benefit company&quot;?</h4>
+        <p>A benefit company, public benefit corporation, B-corp, etc. is a special kind of corporate entity. Typically a company&apos;s bottom line is to generate shareholder value: to make money. A benefit company has a &quot;double-bottom line&quot;: make money, and produce social good. More than a promise or gesture, a benefit corporation is legally required to factor in how its decisions not just effect social or environmental issues, but also improve them.</p>
+        <h4>Can the general public be trusted to make company decisions?</h4>
+        <p>It is our opinion that not only can ordinary people be trusted to make company decisions, but doing so will provide a competitive advantage. Also, it is the right thing to do. That being said, there is only one way to answer to this question, and we intend to answer it.</p>
+        <h4>How do I become a shareholder?</h4>
+        <p>The company does not exist at this time, but email <Link href="mailto:shares@homaro.co">shares at homaro.co</Link> and we will make sure to keep you in the loop.</p>
+        <h4>If I&apos;m a shareholder who pays for company products or services, in which group will I have a vote?</h4>
+        <p>All of them! Your vote on policy proposals will count four times, though with varying weight.</p>
         <h4>Where can I reach you?</h4>
         <p>If you have questions, concerns, feedback, or interest in participating in this expierment, please reach out to <a href="mailto:info@homaro.co">info at homaro.co</a>. We can&apos;t do this without the help of others, and we hope in the kindness of strangers.</p>
+
         {/* <p>{"It's time to do something revolutionary, and I hope that you take part."}</p> */}
         <h3 id="footnotes">
           <Link href="/#footnotes">
@@ -83,7 +92,7 @@ export default function Home() {
           </Link>
         </h3>
         <ol>
-          <li id='transparency'>Operational transparency is an area in which we would like to explore. There are obvious questions and challenges that this would pose for a company. Would people want to work where all their emails are published online? How would we navigate salaries? How transparent is too transparent, or is that even possible? Homaro would like to tackle these questions and challenges in order to instill public trust and foster better behavior. In the instance of product and service pricing, we would provide the information and decisions made which informed the final price, including justification for the profit margin.</li>
+          <li id='transparency'>Operational transparency is an area we would like to explore. There are obvious questions and challenges that this would pose for a company. Would people want to work where all their emails are published online? How would we handle sensitive information? How transparent is too transparent, or is that even possible? Homaro would like to tackle these questions and challenges in order to instill public trust and foster better corporate behavior. In the instance of product and service pricing, we would provide the information and decisions made which informed the final price, including justification for the profit margin.</li>
           <li id="compensation">While the share, stake, and holder groups will ultimately decide how much everyone at Homaro gets paid, as a matter of principle the salary structure should be as flat as possible. Perhaps the groups will vote on the compensation budget, as well as the relative weights assigned to each role.</li>
         </ol>
       </main>

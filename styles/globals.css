@@ -119,6 +119,7 @@ p {
 ul, ol {
   margin-bottom: 20px;
   line-height: 1.5;
+  max-width: 40em;
 }
 
 ol li {
@@ -143,6 +144,8 @@ h3 a:hover {
 h4 {
   margin-top: 10px;
   margin-bottom: 10px;
+  max-width: 40em;
+
 }
 
 /*https://stackoverflow.com/a/6594576/20797054 */
