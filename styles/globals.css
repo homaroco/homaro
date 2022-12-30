@@ -116,7 +116,7 @@ a:hover {
 }
 
 p {
-  width: 40em;
+  max-width: 40em;
   margin-bottom: 20px;
   line-height: 1.5;
 }
@@ -150,7 +150,8 @@ h3 a:hover {
 h4 {
   margin-top: 10px;
   margin-bottom: 10px;
-  width: 40em;
+  width: 100%;
+  max-width: 40em;
   text-align: left;
 }
 
